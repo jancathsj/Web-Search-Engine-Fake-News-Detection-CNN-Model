@@ -1,6 +1,6 @@
 WEB SEARCH ENGINE FAKE NEWS DETECTION USING TEXTUAL DATA AND URL REPRESENTATION THROUGH CNN
 Author: Jan Catherine S. San Juan
-Contact: jssanjuan1@up.edu.ph; janrine2@gmail.com
+Contact: jancatherinesanjuan@gmail.com, jssanjuan1@up.edu.ph
 
 This project uses CNN and baseline traditional machine learning algorithms to classify WSE results as either Fake News or Real News. 
 
